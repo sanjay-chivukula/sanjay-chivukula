@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Sanjay!
+
+A Software Engineer specializing in computer vision technologies and interests in building scalable distributed systems.
 
 <!--
 **sanjay-chivukula/sanjay-chivukula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
